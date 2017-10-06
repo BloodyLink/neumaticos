@@ -6,6 +6,10 @@
     background: linear-gradient(to bottom right, #817FB2, #1C1A59)
 }
 
+.post-input{
+    padding: 1.5em;
+    background: #cccccc;
+}
 
 .post-text{
     color: #ffffff;
